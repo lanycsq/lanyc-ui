@@ -33,7 +33,7 @@ export default {
   setup() {
     const visible = ref(false)
     const toggle = () => {
-      visible.value = !x.value
+      visible.value = !visible.value
     }
     const f1 = () => {
       return false

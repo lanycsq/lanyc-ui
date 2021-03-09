@@ -9,9 +9,9 @@ yarn build
 cd dist
 git init
 git add -A
-git commit -m 'deploy'
-git branch -M master
+git commit -m 'update'
+git branch -M main
 git remote add origin git@github.com:lanycsq/lanyc-ui-website.git
-git push -f -u origin master
+git push -u origin main
 
 cd -

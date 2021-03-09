@@ -10,6 +10,9 @@
       <a href="https://github.com/lanycsq/lanyc-ui">Github</a>
       </li>
       <li>
+      <a href="https://gitee.com/lanycsq/lanyc-ui">码云</a>
+      </li>
+      <li>
         <router-link to="/doc">文档</router-link>
       </li>
   </ul>
