@@ -13,13 +13,10 @@
     @input="input"
     @focus="inputBlur"
     @blur="blur"
-    >
-  
+    />
     <template v-if="error">
-      <icon></icon>
       <span class="errorMessage">{{ error }}</span>
     </template>
-    
   </div>
 </template>
 <script lang="ts">
