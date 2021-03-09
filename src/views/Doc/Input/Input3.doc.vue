@@ -1,5 +1,5 @@
 <demo>
-  常规使用
+  支持readonly
 </demo>
 <template>
   <div>

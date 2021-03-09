@@ -1,5 +1,5 @@
 <demo>
-  常规使用
+  错误信息提示
 </demo>
 <template>
   <div>

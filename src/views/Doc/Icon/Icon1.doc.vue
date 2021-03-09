@@ -1,5 +1,5 @@
 <demo>
-使用方法
+常规用法
 </demo>
 <template>
   <div class="lanyc-icon-use">

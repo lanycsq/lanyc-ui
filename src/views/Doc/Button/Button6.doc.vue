@@ -1,5 +1,5 @@
 <demo>
-文字按钮
+支持文字按钮
 </demo>
 <template>
 <div>
