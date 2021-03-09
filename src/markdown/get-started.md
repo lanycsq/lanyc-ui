@@ -7,7 +7,7 @@
 
 ```
 import Vue from 'vue';
-import 'lanyc-ui/package/lib/lanyc-ui.css'
+import 'lanyc-ui/dist/lib/lanyc-ui.css'
 import { createApp } from "vue";
 import App from "./App.vue";
 import {lanycUI} from 'lanyc-ui'
@@ -46,6 +46,7 @@ app.component("Input", Input)
 </template>
 <script>
 import {Button, Tabs, Switch, Dialog} from "lanyc-ui"
+import 'lanyc-ui/dist/lib/lanyc-ui.css'
 export default {
   components: {Button}
 }

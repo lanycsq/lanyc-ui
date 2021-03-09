@@ -31,7 +31,7 @@ export const router = createRouter({
         { path: "dialog", component: DialogDemo },
         { path: "tabs", component: TabsDemo },
         { path: "input", component: InputDemo },
-        { path: "svg", component: SvgDemo },
+        { path: "icon", component: SvgDemo },
       ],
     },
   ],

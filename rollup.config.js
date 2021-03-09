@@ -12,8 +12,8 @@ export default {
         globals: {
             vue: 'Vue'
         },
-        name: 'Kaite',
-        file: 'dist/lib/kaite.js',
+        name: 'lanyc-ui',
+        file: 'dist/lib/lanyc-ui.js',
         format: 'umd',
         plugins: [terser()]
     },
