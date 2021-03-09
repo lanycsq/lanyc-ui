@@ -84,7 +84,7 @@ $color:#e96919;
     top: 50%;
     transform: translateY(-50%);
     display: none;
-    background: fade-out(black, 0.9);
+    background: fade-out($color, 0.9);
   }
   @media (max-width: 500px) {
     > .menu {
