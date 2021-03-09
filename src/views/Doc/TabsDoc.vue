@@ -1,6 +1,6 @@
 <template>
 <h1>Tabs 示例</h1>
-<Demo :component="Tabs1Demo" />
+<Demo title="基本用法" :component="Tabs1Demo" />
 <Attr :data="tabData"/>
 </template>
 
