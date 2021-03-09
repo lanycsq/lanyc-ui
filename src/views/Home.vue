@@ -24,7 +24,7 @@
         <svg>
           <use xlink:href="#icon-ts"></use>
         </svg>
-        <h3>基于 Type Scrippt</h3>
+        <h3>基于 Type Script</h3>
         <p>源码使用TypeScript 书写</p>
       </li>
       <li>
