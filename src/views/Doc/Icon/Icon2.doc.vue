@@ -32,10 +32,11 @@ export default {
 </script>
 <style lang="scss" >
 $blue:#1890ff;
+ $border:1px solid  #f0f0f0;
 .lanyc-icon{
     margin-top: 40px;
     &-title{
-       font-weight: 400;
+    font-weight: 400;
     color: #1f2f3d;
     font-size: 20px;
     }
@@ -46,7 +47,7 @@ $blue:#1890ff;
           justify-content: center;
           align-content: center;
           grid-template-columns:  repeat(7, 1fr);
-          $border:1px solid  #f0f0f0;
+         
           >li{
             padding :20px ;
             text-align: center;
@@ -63,6 +64,7 @@ $blue:#1890ff;
           }
          
       }
+     
     }
 }
   

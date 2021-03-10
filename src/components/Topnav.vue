@@ -63,8 +63,8 @@ $color:#e96919;
     margin-right: auto;
 
     >svg {
-      width: 32px;
-      height: 32px;
+      width: 70px;
+      height: 70px;
     }
   }
   > .menu {
